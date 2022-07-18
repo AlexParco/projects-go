@@ -1,0 +1,9 @@
+mysql:
+    username: root
+    password: root
+    dbname: todo
+    host: '127.0.0.1'
+    port: '3306'
+
+port: '2000'
+
