@@ -6,3 +6,4 @@
 
 nc [IP] [PORTH]
 ```
+<img src="./images/preview.png">
